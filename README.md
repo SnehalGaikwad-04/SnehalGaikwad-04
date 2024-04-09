@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SnehalGaikwad-04
+- 👋 Hi, I’m Snehal Gaikwad
 - 👀 Languages ik: c, c++, java, python, oracle SQL, html-css 
 - 🌱 I’m currently learning MERN
 - 📈 currently a Computer Engineering student and a Diploma holder in Comp-Tech
